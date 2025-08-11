@@ -9,5 +9,4 @@ Dataset: https://ourworldindata.org/grapher/annual-co2-emissions-per-country
 ### Repository Contents
 
 - **Final Report (PDF)**: A comprehensive write-up of our methodology, results, and conclusions.
-
 - **R Script (PDF)**: All the code used for predictions and data visualization (tables were further elaborated on Excel).
